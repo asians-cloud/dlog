@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/crowdsecurity/dlog"
+	"github.com/asians-cloud/dlog"
 )
 
 func Test_tooShortForPrefix(t *testing.T) {

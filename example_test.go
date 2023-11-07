@@ -8,7 +8,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/crowdsecurity/dlog"
+	"github.com/asians-cloud/dlog"
 )
 
 func ExampleNewReader() {
